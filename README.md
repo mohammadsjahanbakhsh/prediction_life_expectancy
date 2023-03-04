@@ -1,27 +1,15 @@
-__________________________________________________Web crawling_______________________________________________________
+__________________________________________Data model and prediction & Analyze data_______________________________________________
 
+ML(python)
 
-Scraping and clear data with python (beautifullSoup and pandas) 
-_______________________________________________________________
-The information is collected from the https://fidilio.com/ site
+    Working on the life expectancy data published by the United Nations and adding several regular features from different datasets
+    Preprocessing and dealing with missing data filling them with possible values
+    With the decision tree regression model, using the relevant data from 2015 to 2021 and my own features that were predicted by the R2 square above 0.8, I chose the model and predicted for 2022.
+    Then, with several different models, I predicted the life expectancy index for 2022 and evaluated it with the values published by the United Nations using the R2 square measure.
 
-_______________                                                                                   _________________
-_________________The link to the PDF file in Farsi language is placed at the bottom of this file___________________
+BI ( power BI)  
 
+    The questions that were defined for the project have been illustrated and dashboarded using the Power BI tool
 
-The first task is to colloect information from the site by Mohammad Jahanbakhsh, such as:
-	- noun
-	- City
-	- Address
-	- Phone number
-	- Working hours (start time and end time)
-	- Price ratio (marked on Fidelio's home page with a $ symbol);And 
-	   below is the overall score at the top of each site's dedicated page.
-		
-
-	- Coffee shop points (food points, service, cost, environment, etc.)
-	   Features offered by each cafe (for example hookah, free internet,
-	   Live music, home delivery, parking, POS device, etc.
-	   
 	   
 ___________________________________________________________________________
